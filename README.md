@@ -2,7 +2,7 @@
 
 The dataset_prep.ipynb file contains code that was used for preparing the dataset.
 
-
+In ISRO_SR file-
 1. Run the Model cell. </br>
 2. Run the Inference cell. </br>
 3. After running the inference cell , follow the example cell. </br>
